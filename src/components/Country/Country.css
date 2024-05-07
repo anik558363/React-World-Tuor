@@ -1,5 +1,5 @@
 .country{
-    border: 2px solid blue;
+    /* border: 2px solid blue; */
     margin: 15px;
     border-radius: 10px;
     display: flex;
@@ -8,10 +8,17 @@
 }
 
 .img{
-    width: 180px;
+    width: 220px;
     height: 100px;
 }
 
 .mb{
     margin-bottom: 15px;
+}
+
+.visited{
+    background-color: rgb(39, 152, 189);
+}
+.visited1{
+    background-color: rgb(58, 16, 124);
 }
